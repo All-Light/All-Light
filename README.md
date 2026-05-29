@@ -1,9 +1,9 @@
 ## Hi there 👋
-MSc Engineering Physics @ Uppsala University
+MSc Engineering Physics @ **Uppsala University**
 
-Part-time AI Developer @ Ericsson Research Machine Learning
+Part-time AI Developer @ **Ericsson Research Machine Learning**
 
-Head of IT @ UU AI Society
+Head of IT @ **UU AI Society**
 
 | Project   |      Description      |
 |----------|:-------------:|
@@ -13,7 +13,7 @@ Head of IT @ UU AI Society
 | [Berzans Elevkår](https://berzanelevkar.com/) | Head of IT @ Berzans Elevkår, event management, memberships, and web games. Done in PHP  |
 
 
-
+Reach out to me at: [https://www.linkedin.com/in/alexander-andersson-78b811206/](https://www.linkedin.com/in/alexander-andersson-78b811206/)
 
 <!--
 **All-Light/All-Light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
