@@ -1,11 +1,11 @@
 ## Hi there 👋
 MSc Engineering Physics @ **Uppsala University**
 
-Part-time AI Developer @ **Ericsson Research Machine Learning**
-
 Technical Consultant @ **Pasiphae AB**
 
 Head of IT @ **UU AI Society**
+
+Ex AI Developer @ **Ericsson Research Machine Learning**
 
 | Project   |      Description      |
 |----------|:-------------:|
